@@ -40,7 +40,8 @@ python dfs_image_path_finder.py
 
 Here is an example of how the output image might look:
 
-![output_image](https://github.com/yumbiakyumu/Python-maze-solver-using-DFS/assets/100669436/b88bf6f6-471d-4457-9072-f116b23d1191)
+![dfs](https://github.com/yumbiakyumu/Python-maze-solver-using-DFS/assets/100669436/618eb405-d101-44bc-ae28-f889a2287529)
+
 
 
 The green line in the output image represents the path found by the Depth First Search algorithm from the start point (red) to the end point (blue) in the input image.
